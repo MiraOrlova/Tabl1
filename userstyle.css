@@ -1,0 +1,21 @@
+body{
+	
+	justify-content: center;
+}
+.delete{
+	background-color:red;
+	color:white;
+}
+#table{
+	border-collapse: collapse;
+	
+}
+#table td{
+	border:1px green solid;
+	background-color: lightgray;
+	padding: 10px;
+}
+#form{
+	display: flex;
+	justify-content: center;
+}
